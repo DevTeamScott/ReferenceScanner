@@ -1,0 +1,20 @@
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceDataInput.exe
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceDataInput.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\New Wrapper.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceCheck.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceParser.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceScanner.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\New Wrapper.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\New Wrapper.xml
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceCheck.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceCheck.xml
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceParser.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceScanner.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\ReferenceDataInput.Form1.resources
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\ReferenceDataInput.Properties.Resources.resources
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\ReferenceDataInput.exe
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\obj\x86\Debug\ReferenceDataInput.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceDataInput\ReferenceDataInput\bin\Debug\ReferenceDataInput.exe.config
