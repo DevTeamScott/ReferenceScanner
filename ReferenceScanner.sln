@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceScanner", "ReferenceScanner\ReferenceScanner.csproj", "{672C615D-986B-4C66-821B-65E5C984879C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceParser", "..\..\..\..\..\DMBDeveloperShare\CommonComponents\ReferenceParser\ReferenceParser\ReferenceParser.csproj", "{2993ABC2-5ED9-40E0-ABE7-97C3B12D56CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceCheck", "..\..\..\..\..\DMBDeveloperShare\CommonComponents\ReferenceCheck\ReferenceCheck\ReferenceCheck.csproj", "{891F691D-6200-4D16-ABB1-09129AE79A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Wrapper", "..\..\..\..\..\DMBDeveloperShare\CommonComponents\New wrapper\New Wrapper.csproj", "{EC4EC433-4973-4159-967D-43EA75DF73E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672C615D-986B-4C66-821B-65E5C984879C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672C615D-986B-4C66-821B-65E5C984879C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672C615D-986B-4C66-821B-65E5C984879C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672C615D-986B-4C66-821B-65E5C984879C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2993ABC2-5ED9-40E0-ABE7-97C3B12D56CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2993ABC2-5ED9-40E0-ABE7-97C3B12D56CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2993ABC2-5ED9-40E0-ABE7-97C3B12D56CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2993ABC2-5ED9-40E0-ABE7-97C3B12D56CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891F691D-6200-4D16-ABB1-09129AE79A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891F691D-6200-4D16-ABB1-09129AE79A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891F691D-6200-4D16-ABB1-09129AE79A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891F691D-6200-4D16-ABB1-09129AE79A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4EC433-4973-4159-967D-43EA75DF73E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4EC433-4973-4159-967D-43EA75DF73E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4EC433-4973-4159-967D-43EA75DF73E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4EC433-4973-4159-967D-43EA75DF73E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

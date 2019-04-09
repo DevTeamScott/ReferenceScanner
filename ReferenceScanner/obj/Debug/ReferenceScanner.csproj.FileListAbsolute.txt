@@ -1,0 +1,26 @@
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceScanner.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceScanner.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\New Wrapper.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceCheck.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceParser.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\New Wrapper.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\New Wrapper.xml
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceCheck.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceCheck.xml
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceParser.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\obj\Debug\ReferenceScanner.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\ReferenceScanner\ReferenceScanner\obj\Debug\ReferenceScanner.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceScanner.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceScanner.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\New Wrapper.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceCheck.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceParser.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\New Wrapper.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\New Wrapper.xml
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceCheck.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceCheck.xml
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\bin\Debug\ReferenceParser.pdb
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\obj\Debug\ReferenceScanner.dll
+C:\Documents and Settings\Scott Speedie\My Documents\Projects\Copy of ReferenceScanner\ReferenceScanner\obj\Debug\ReferenceScanner.pdb
